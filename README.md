@@ -2,3 +2,9 @@
 This is a repository containing the list of company wise questions available on leetcode premium.
 
 Every pdf file in this repository corresponds to a list of questions on leetcode for a specific company based on the _leetcode company tags_. The list of questions within each pdf is further sorted by their frequency, so the most popular question for a specific company is at the top.
+
+
+More repos:
+https://github.com/hxu296/leetcode-company-wise-problems-2022?tab=readme-ov-file#robinhood
+
+https://github.com/snehasishroy/leetcode-companywise-interview-questions
